@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MyandroidActivity!Hello, Dima</string>
+    <string name="app_name">Myandroid</string>
+    <string name="new_game">Новая игра</string>
+    <string name="settings">Настройки</string>
+    <string name="rools">Правила</string>
+    <string name="language">Язык</string>
+    <string name="level">Сложность</string>
+    <string name="volume">Звук</string>
+    <string name="results">Результаты</string>
+    <string name="loadGame">Продолжить игру</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="text_rools">
+    	Правила игры.
+    	В обычной игре игрок играет против зрителей. Вначале Вам дается вопрос. Время на ответ - 60 сек. Если отвечаете неверно, то очко присуждается зрителям. Если же Вы смогли правильно ответить на поставленный вопрос, то очко идет в Вашу копилку. Игра продолжается до 6 очков.
+    </string>
+    <string name="type">Тип игры</string>
+    <string name="inputAnswer">Введите ответ</string>
+    <string name="answer">Ответ</string>
+    <string name="myAnswer">Ваш ответ</string>
+    <string name="rightAnswer">Правильный ответ</string>    
+    <string name="score">Счет</string>
+    <string name="about">Эту программу создал для вас студент группы 052003 Кривенький Дмитрий Сергеевич.
+    Просьба все советы, замечания, подсказки высылать на мою почту zmicervadim@gmail.com</string>
+    <string name="nextQuestion">Следующий вопрос</string>
+    <string name="Name">Ваше имя:</string>
+    <string name="AddScore">Взять доп. минуту</string>
+    <string name="Comentory">Коментарий к ответу</string>
+    
+</resources>
